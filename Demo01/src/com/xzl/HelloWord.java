@@ -5,5 +5,6 @@ public class HelloWord {
         System.out.println("hello word!!!");
         System.out.println("xuzunle");
         System.out.println("github");
+        System.out.println("------------------");
     }
 }
